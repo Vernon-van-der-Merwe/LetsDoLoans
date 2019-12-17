@@ -37,7 +37,7 @@
     margin: 0;
     align-content: center;
 }
-#what-we-do .card{
+.card{
     padding: 5%;
     height: 100%;
     box-shadow: 5px 5px 20px 1px rgba(0, 0, 0, 0.164);
@@ -53,4 +53,40 @@
 #testimonials {
     background-image: url(/Media/LDL-background2.png);
     background-size: cover;
-}enbook
+    text-align: center;
+}
+.test-heading {
+    padding: 20% 0 0 0 ;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+
+}
+.test-quote {
+    font-family: 'Merriweather', serif;
+    color: white;
+    font-size: 2rem;
+    padding: 10% 0 15%;
+
+}
+
+/* fourth section */
+
+#statistics {
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    padding: 10% 0 20% 0;
+}
+.subtitle {
+    padding: 0 0 8% 0 ;
+}
+#statistics i{
+    font-size: 400%;
+    padding: 10% 0;
+    color: orange;
+}
+
+/* Last section */
+
+#contact-us {
+    background-image: linear-gradient(to bottom right,rgb(255, 165, 62),rgb(255, 102, 0));
+}
