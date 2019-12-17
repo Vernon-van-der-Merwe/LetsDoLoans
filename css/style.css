@@ -40,8 +40,17 @@
 #what-we-do .card{
     padding: 5%;
     height: 100%;
-    box-shadow: 5px 5px 20px 1px rgba(0, 0, 0, 0.281);
+    box-shadow: 5px 5px 20px 1px rgba(0, 0, 0, 0.164);
 }
 #what-we-do .card p{
     padding: 10% 0 0 0;
 }
+
+
+
+/* Third-section */
+
+#testimonials {
+    background-image: url(/Media/LDL-background2.png);
+    background-size: cover;
+}enbook
