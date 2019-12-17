@@ -32,9 +32,9 @@
     text-align: center;
     padding: 0 0 10% 0;
 }
-.wwd-heading {
+.wwd-heading h3{
     text-align: center;
-    margin: 0;
+    font-size: 2.5 narem;
     align-content: center;
 }
 .card{
@@ -65,7 +65,7 @@
     font-family: 'Merriweather', serif;
     color: white;
     font-size: 2rem;
-    padding: 10% 0 15%;
+    padding: 10% 0 30%;
 
 }
 
@@ -74,7 +74,7 @@
 #statistics {
     font-family: 'Quicksand', sans-serif;
     text-align: center;
-    padding: 10% 0 20% 0;
+    padding: 0% 0 20% 0;
 }
 .subtitle {
     padding: 0 0 8% 0 ;
@@ -89,4 +89,21 @@
 
 #contact-us {
     background-image: linear-gradient(to bottom right,rgb(255, 165, 62),rgb(255, 102, 0));
+}
+.card-col{
+    padding: 5% ;
+}
+#contact-us .card {
+    padding: 10% 10%;
+}
+.contact-details{
+    padding: 15% 0 0 0;
+}
+.contact {
+    padding: 10% 0 0 0 ;
+    font-size: 1.3rem;
+}
+.contact i {
+    font-size: 2.5rem;
+    padding: 0 3rem 0 0;
 }
